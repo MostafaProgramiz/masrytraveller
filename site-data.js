@@ -6,9 +6,9 @@
 window.SITE_DATA = {
   analyticsAsOf: "August 2026",
   media: {
-    heroImage: "assets/pic1.jpg", // e.g. "assets/hero.webp"
-    creatorImage: "assets/pic3.jpg", // e.g. "assets/mostafa.webp"
-    aboutImage: "assets/pic2.jpg" // e.g. "assets/about-mostafa.webp"
+    heroImage: "assets/pic1.png", // e.g. "assets/hero.webp"
+    creatorImage: "assets/pic3.png", // e.g. "assets/mostafa.webp"
+    aboutImage: "assets/pic2.png" // e.g. "assets/about-mostafa.webp"
   },
   links: {
     email: "masrytraveller.ugc@gmail.com",
