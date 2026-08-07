@@ -82,8 +82,11 @@
   qsa("[data-email-link]").forEach(el => { el.href = emailUrl; if (el.tagName === 'A' && !el.classList.contains('button')) el.textContent = data.links.email; });
   qsa("[data-tiktok-link]").forEach(el => { el.href = data.links.tiktok; el.target = "_blank"; el.rel = "noopener"; });
   qsa("[data-instagram-link]").forEach(el => { el.href = data.links.instagram; el.target = "_blank"; el.rel = "noopener"; });
-  qsa("[data-media-kit-link]").forEach(el => el.href = data.links.mediaKit);
-
+  qsa("[data-media-kit-link]").forEach(el => {
+  el.href = data.links.mediaKit;
+  el.target = "_blank";
+  el.rel = "noopener";
+});
   const upcoming = qs("#upcoming");
   if (data.upcoming?.active) {
     upcoming.hidden = false;

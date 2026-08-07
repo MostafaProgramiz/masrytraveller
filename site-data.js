@@ -14,7 +14,7 @@ window.SITE_DATA = {
     email: "masrytraveller.ugc@gmail.com",
     tiktok: "https://www.tiktok.com/@masrytraveller",
     instagram: "https://www.instagram.com/masrytraveller/",
-    mediaKit: "#add-media-kit-link"
+    mediaKit: "assets/Mostafa_Media_Kit.pdf"
   },
   proof: [
     { value: "380K+", label: "launch-month views" },
