@@ -98,7 +98,7 @@ window.SITE_DATA = {
         engagement: "relatable travel concept"
       },
       {
-        value: "40K+",
+        value: "50K+",
         label: "Views",
         detail: "YouArt UGC",
         engagement: "brand content result"
@@ -114,7 +114,7 @@ window.SITE_DATA = {
     launch: [
       { value: "850K+", label: "total views" },
       { value: "350K+", label: "top travel video" },
-      { value: "40K+", label: "brand UGC result" }
+      { value: "50K+", label: "brand UGC result" }
     ]
   },
 
