@@ -20,7 +20,7 @@ window.SITE_DATA = {
   },
 
   proof: [
-    { value: "600K+", label: "views in 2 months" },
+    { value: "850K+", label: "views in 2 months" },
     { value: "72%", label: "UK viewership" },
     { value: "Hotels + Airbnb", label: "Thailand experience" }
   ],
@@ -84,7 +84,7 @@ window.SITE_DATA = {
 
   results: {
     hero: {
-      value: "600K+",
+      value: "850K+",
       label: "Views",
       detail: "MasryTraveller",
       sub: "generated in the first 2 months"
@@ -112,7 +112,7 @@ window.SITE_DATA = {
     ],
 
     launch: [
-      { value: "600K+", label: "total views" },
+      { value: "850K+", label: "total views" },
       { value: "350K+", label: "top travel video" },
       { value: "40K+", label: "brand UGC result" }
     ]
